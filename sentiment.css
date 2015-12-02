@@ -1,0 +1,38 @@
+.neutral {
+}
+
+.very-negative {
+    background-color: rgb(255, 0, 0);
+}
+
+.very-negative:hover {
+    background-color: white;
+    color: rgb(255, 0, 0);
+}
+
+.negative {
+    background-color: rgb(255, 128, 128);
+}
+
+.negative:hover {
+    background-color: white;
+    color: rgb(255, 128, 128);
+}
+
+.positive {
+    background-color: rgb(128, 255, 128);
+}
+
+.positive:hover {
+    background-color: white;
+    color: rgb(128, 255, 128);
+}
+
+.very-positive {
+    background-color: rgb(0, 255, 0);
+}
+
+.very-positive:hover {
+    background-color: white;
+    color: rgb(0, 255, 0);
+}
